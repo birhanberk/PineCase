@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06f61a4a88b60340bd0177e2f986c9c, type: 3}
+  m_Name: Product Item
+  m_EditorClassIdentifier: 
+  description: MERGE to reach its next level.
+  prefab: {fileID: -5414504476557163135, guid: b3580d8a92d9a4f42a2e4dcf5b8b6756, type: 3}
+  mergeParticle: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: d712872491f59e343be5e5d7a261a299, type: 2}
+  - {fileID: 11400000, guid: 96339a1413450214e9242c454db8f448, type: 2}
+  - {fileID: 11400000, guid: 5fc279a830145214490ae59da9341bbe, type: 2}
+  - {fileID: 11400000, guid: 73fd92aa07859d14aa8bb6974aafb6e8, type: 2}
+  - {fileID: 11400000, guid: 339d43187d50aab4fa790360d6892b7c, type: 2}
+  sparkParticleDuration: 4

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1acbc50ff4248544ca8387c02b850da6, type: 3}
+  m_Name: Chest Item
+  m_EditorClassIdentifier: 
+  description: Contains many coins and energy.
+  prefab: {fileID: 4685441595473452209, guid: 863fe96471bbb5e408727f8c09f67da7, type: 3}
+  levels:
+  - {fileID: 11400000, guid: 77e0c7639b1fca045b91a7be7e5da658, type: 2}
+  - {fileID: 11400000, guid: 774758ae89f1fbb49a82d916755f7339, type: 2}
+  - {fileID: 11400000, guid: 7eab18a298ec468449b7829d697e9576, type: 2}
+  lockedSprite: {fileID: 21300000, guid: 015e0e1c0f9a34349a64c6c7c62f4d91, type: 3}
+  unlockingSprite: {fileID: 21300000, guid: 20eaa18b3b7603c4a9ff177241eb157f, type: 3}
+  unlockTime: 60

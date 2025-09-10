@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a87eeeb25eddc294b8aa22ec8ee1e621, type: 3}
+  m_Name: Grid Data
+  m_EditorClassIdentifier: 
+  gridSize: {x: 7, y: 9}
+  cellPrefab: {fileID: 5583050568910609582, guid: c4b95deafdb9081409b00f74906d9d03, type: 3}
+  cellSize: {x: 1, y: 1}
+  selectionHighlightPrefab: {fileID: 5179038222486302356, guid: 19b63f739ca2417469a23a69def2b01e, type: 3}
+  primaryMaterial: {fileID: 2100000, guid: 0260dd0dab643024dacb9610d30d5dc2, type: 2}
+  secondaryMaterial: {fileID: 2100000, guid: fdf0ac596b4806a4589437022674436d, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b325ce1c9c41941b2cbb7d28dafb96, type: 3}
+  m_Name: Energy Item
+  m_EditorClassIdentifier: 
+  itemName: Energy
+  description: MERGE to reach the next level. Tap to collect energy.
+  prefab: {fileID: 7742983482082329280, guid: 683775bd0b2edde4bbd59501e356a962, type: 3}
+  levels:
+  - {fileID: 11400000, guid: e1a247a863e18b34cb1b89c133b76e3a, type: 2}
+  - {fileID: 11400000, guid: b5fa3d7014754b3479959cbc3482c16a, type: 2}
+  - {fileID: 11400000, guid: a97807b23c094b64caa88960e505ab03, type: 2}
